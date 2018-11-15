@@ -17,3 +17,6 @@ Obviously the C code will be much faster.
 I make use of autotools. Compling instructions are: (1) autoreconf -1 (2) ./configure (3) make (4) ./dipole
 
 The output is a csv file, and I have included a matlab plotting script (easily adopted for matplotlib).
+
+![alt text](https://github.com/iwhoppock/magnetic_dipole/blob/master/dipole_bw_1.eps)
+
