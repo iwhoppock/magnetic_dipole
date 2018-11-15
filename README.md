@@ -1,4 +1,4 @@
-# Magnetic Dipole/Magnetic Mirror
+# Magnetic Dipole/Magnetic Mirror/Adiabatic Invariants (all three)
 
 This models a charged particle moving in a magnetic dipole, and shows all three adiabatic invariants (magnetic moment, longitudnal invariant/magnetic mirror, and the toroidal drift/magnetic flux). A visualisation of the output can be seen in dipole_bw_1.eps. 
 
