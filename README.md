@@ -4,7 +4,7 @@ This models a charged particle moving in a magnetic dipole, and shows all three 
 
 All three algorithms make use of the Boris algorithm for non-relativistic particle pushing.
 
-Three versions: (1) C; (2) Python; and (3) Matlab.
+Three versions: (1) C; (2) Python; and (3) Matlab. One in Julia may come. 
 
 For it to work properly, the initial magnetic field at the starting location of the particle must be 1. Changes to the initial position will likely change the parameters of the magnetic field (all one must do is print out the initial field, and then multiply/divide the components of said field to make it one initially.) 
 
